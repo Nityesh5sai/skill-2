@@ -1,0 +1,11 @@
+                                                  CDD home assignment-1
+1.list out the best practices for implementing continuous integration
+2.define devops and illustrate the relationship b/w agile and devops
+3.releate devops engineers duty with regard to agile development with neat diagram
+4.utilize gitbash or terminal and deploy the file to github 
+5.identify the lead of version control systems list the popular version control systems demonstirate the role of version control system in devops environment
+6.identify the types of source control system and the supporting tools
+7.explain the work flow of devops and dev sec ops with the help of a diagram
+8.demonistrate about various cloud service models and important of cloud in devops
+9.demonistrate the process of deploying the files to bitbucket via git
+                                                 
